@@ -1,3 +1,12 @@
+.bookings {
+    display: flex;
+    justify-content: space-evenly;
+    flex-basis: 24%;
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px dotted goldenrod;
+}
+
 .details {
     display: flex;
     justify-content: space-evenly;
@@ -10,6 +19,11 @@
     border: 1px dotted goldenrod;
 }
 
-.assignments {
+.bands {
     padding: 1rem 5rem;
 }
+
+.venues {
+    padding: 1rem 5rem;
+}
+

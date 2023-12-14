@@ -7,9 +7,12 @@ const mainContainer = document.querySelector("#container")
 const applicationHTML = `
 <h1>Samantha's Tour Plan</h1>
 <article class="bookings">
-<h1>Current Bookings</h1>
+    <section class="detail__bookings">
+<h2>Current Bookings</h2>
 ${Bookings()}
+</section>
 </article>
+
 <article class="details">
     <section class="detail--column list details__venues">
         <h2>Venues</h2>

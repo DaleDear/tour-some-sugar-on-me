@@ -79,35 +79,35 @@ const database = {
 
     }],
     bookings: [{
-        id: 1, bandId: 1, venueId: 1, date: "12/13/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 1, bandId: 1, venueId: 1, date: "12/13/2023"
     }, {
-        id: 2, bandId: 2, venueId: 2, date: "12/14/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 2, bandId: 2, venueId: 2, date: "12/14/2023"
     }, {
-        id: 3, bandId: 3, venueId: 3, date: "12/15/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 3, bandId: 3, venueId: 3, date: "12/15/2023"
     }, {
-        id: 4, bandId: 4, venueId: 4, date: "12/16/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 4, bandId: 4, venueId: 4, date: "12/16/2023"
     }, {
-        id: 5, bandId: 5, venueId: 5, date: "12/17/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 5, bandId: 5, venueId: 5, date: "12/17/2023"
     }, {
-        id: 6, bandId: 6, venueId: 1, date: "12/18/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 6, bandId: 6, venueId: 1, date: "12/18/2023"
     }, {
-        id: 7, bandId: 1, venueId: 2, date: "12/19/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 7, bandId: 1, venueId: 2, date: "12/19/2023"
     }, {
-        id: 8, bandId: 2, venueId: 3, date: "12/20/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 8, bandId: 2, venueId: 3, date: "12/20/2023"
     }, {
-        id: 9, bandId: 3, venueId: 4, date: "12/21/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 9, bandId: 3, venueId: 4, date: "12/21/2023"
     }, {
-        id: 10, bandId: 4, venueId: 5, date: "12/22/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 10, bandId: 4, venueId: 5, date: "12/22/2023"
     }, {
-        id: 11, bandId: 5, venueId: 1, date: "12/23/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 11, bandId: 5, venueId: 1, date: "12/23/2023"
     }, {
-        id: 12, bandId: 6, venueId: 2, date: "12/27/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 12, bandId: 6, venueId: 2, date: "12/27/2023"
     }, {
-        id: 13, bandId: 1, venueId: 3, date: "12/28/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 13, bandId: 1, venueId: 3, date: "12/28/2023"
     }, {
-        id: 14, bandId: 2, venueId: 4, date: "12/29/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 14, bandId: 2, venueId: 4, date: "12/29/2023"
     }, {
-        id: 15, bandId: 3, venueId: 5, date: "12/13/2023", timeSlot: "8:00pm - 9:30pm"
+        id: 15, bandId: 3, venueId: 5, date: "12/13/2023"
     }]
 }
 
